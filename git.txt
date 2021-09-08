@@ -1,0 +1,6 @@
+git add .
+git commit -m 'message'
+git branch -M master
+git push -u origin master
+
+git remote add origin https://github.com/meafekih/mqscrar.git
